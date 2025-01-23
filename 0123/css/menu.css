@@ -1,0 +1,11 @@
+nav {
+    width: 100%;
+    border: 2px dashed blue;
+    background-color: #000;
+    min-height: 100px;
+}
+
+nav a {
+    color: #FFF;
+    font-size: 2em;
+}
